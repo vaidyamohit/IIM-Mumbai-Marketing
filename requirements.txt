@@ -1,4 +1,4 @@
-pip install streamlit
-pip install pandas
-pip install plotly
-pip install openpyxl
+streamlit==1.25.0
+pandas==2.1.1
+plotly==5.15.0
+openpyxl==3.1.2
